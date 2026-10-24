@@ -1,0 +1,15 @@
+# .NET build output
+**/bin/
+**/obj/
+**/TestResults/
+
+# IDE settings
+.vs/
+.idea/
+.vscode/
+
+# Local databases and logs
+*.db
+*.db-shm
+*.db-wal
+*.log

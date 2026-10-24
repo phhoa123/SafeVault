@@ -185,3 +185,4 @@ d:\Dotnet\SafeVault\SafeVault.Tests\obj\Debug\net10.0\refint\SafeVault.Tests.dll
 d:\Dotnet\SafeVault\SafeVault.Tests\obj\Debug\net10.0\SafeVault.Tests.pdb
 d:\Dotnet\SafeVault\SafeVault.Tests\obj\Debug\net10.0\SafeVault.Tests.genruntimeconfig.cache
 d:\Dotnet\SafeVault\SafeVault.Tests\obj\Debug\net10.0\ref\SafeVault.Tests.dll
+d:\Dotnet\SafeVault\SafeVault.Tests\obj\Debug\net10.0\SafeVault.Tests.sourcelink.json

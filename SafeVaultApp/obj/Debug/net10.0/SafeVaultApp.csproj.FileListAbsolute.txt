@@ -10,3 +10,4 @@ d:\Dotnet\SafeVault\SafeVaultApp\obj\Debug\net10.0\SafeVaultApp.dll
 d:\Dotnet\SafeVault\SafeVaultApp\obj\Debug\net10.0\refint\SafeVaultApp.dll
 d:\Dotnet\SafeVault\SafeVaultApp\obj\Debug\net10.0\SafeVaultApp.pdb
 d:\Dotnet\SafeVault\SafeVaultApp\obj\Debug\net10.0\ref\SafeVaultApp.dll
+d:\Dotnet\SafeVault\SafeVaultApp\obj\Debug\net10.0\SafeVaultApp.sourcelink.json
