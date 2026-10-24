@@ -1,0 +1,12 @@
+D:\Dotnet\SafeVault\SafeVaultApp\obj\Debug\net10.0\SafeVaultApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\SafeVault\SafeVaultApp\obj\Debug\net10.0\SafeVaultApp.AssemblyInfoInputs.cache
+D:\Dotnet\SafeVault\SafeVaultApp\obj\Debug\net10.0\SafeVaultApp.AssemblyInfo.cs
+D:\Dotnet\SafeVault\SafeVaultApp\obj\Debug\net10.0\SafeVaultApp.csproj.CoreCompileInputs.cache
+d:\Dotnet\SafeVault\SafeVaultApp\bin\Debug\net10.0\SafeVaultApp.deps.json
+d:\Dotnet\SafeVault\SafeVaultApp\bin\Debug\net10.0\SafeVaultApp.dll
+d:\Dotnet\SafeVault\SafeVaultApp\bin\Debug\net10.0\SafeVaultApp.pdb
+d:\Dotnet\SafeVault\SafeVaultApp\obj\Debug\net10.0\SafeVaultApp.csproj.AssemblyReference.cache
+d:\Dotnet\SafeVault\SafeVaultApp\obj\Debug\net10.0\SafeVaultApp.dll
+d:\Dotnet\SafeVault\SafeVaultApp\obj\Debug\net10.0\refint\SafeVaultApp.dll
+d:\Dotnet\SafeVault\SafeVaultApp\obj\Debug\net10.0\SafeVaultApp.pdb
+d:\Dotnet\SafeVault\SafeVaultApp\obj\Debug\net10.0\ref\SafeVaultApp.dll
